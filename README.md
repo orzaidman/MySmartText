@@ -1,7 +1,7 @@
 # MySmartText
 [![](https://jitpack.io/v/orzaidman/MySmartText.svg)](https://jitpack.io/#orzaidman/MySmartText)
 
-![me](smart.gif)
+![](https://github.com/orzaidman/MySmartText/blob/master/smart.gif)
 
 Step 1. Add it in your root build.gradle at the end of repositories:
 
