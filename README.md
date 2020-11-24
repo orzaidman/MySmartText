@@ -21,7 +21,7 @@ Step 2. Add the dependency
 	
 # Usage
 Basicly it's a textview with custom attributes.
-Speed012 - default is 1 - 0 fastest
+Speed012 - (default is 1) - 0 is fastest
   ```
   <com.or.mysmartview.SmartTextView
     android:layout_width="wrap_content"
