@@ -32,4 +32,4 @@ Speed012 - default is 1 - 0 fastest
     tools:ignore="MissingConstraints"
     app:speed012="1"
         android:textColor="@color/black"
-        />```
+        />
