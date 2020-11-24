@@ -22,7 +22,8 @@ Step 2. Add the dependency
 # Usage
 Basicly it's a textview with custom attributes.
 Speed012 - default is 1 - 0 fastest
-    <com.or.mysmartview.SmartTextView
+  ```
+  <com.or.mysmartview.SmartTextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="loading.."
@@ -31,4 +32,4 @@ Speed012 - default is 1 - 0 fastest
     tools:ignore="MissingConstraints"
     app:speed012="1"
         android:textColor="@color/black"
-        />
+        />```
