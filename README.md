@@ -16,3 +16,19 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.orzaidman:MySmartText:1.0.0.01'
 	}
+	
+	
+	
+# Usage
+Basicly it's a textview with custom attributes.
+Speed012 - default is 1 - 0 fastest
+    <com.or.mysmartview.SmartTextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="loading.."
+    android:textSize="80dp"
+    android:layout_centerInParent="true"
+    tools:ignore="MissingConstraints"
+    app:speed012="1"
+        android:textColor="@color/black"
+        />
